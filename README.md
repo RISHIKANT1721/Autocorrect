@@ -8,7 +8,8 @@ TO run this code you will need to have the pre installed python libraries
 
 textblob
 tkinter
-`bash
+bash
 pip install tkinter
+
 
 
